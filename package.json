@@ -1,0 +1,23 @@
+{
+  "name": "box2d-deterministic-verify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "box2d-deterministic-verify": "game.js"
+  },
+  "dependencies": {
+    "random-js": "latest",
+    "tslib": "latest",
+    "@types/box2d": "latest"
+  },
+  "devDependencies": {
+    "rollup-plugin-commonjs": "latest",
+    "rollup-plugin-node-resolve": "latest"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "hwei",
+  "license": "ISC"
+}

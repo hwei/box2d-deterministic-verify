@@ -1,0 +1,8 @@
+/.rpt2_cache
+/.cache
+/.laya/chrome
+/bin
+/coverage
+/node_modules
+/build
+/release
