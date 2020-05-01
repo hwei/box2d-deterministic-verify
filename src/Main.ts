@@ -4,7 +4,8 @@ class Main {
 		//根据IDE设置初始化引擎		
 		if ((window as any)["Laya3D"]) Laya3D.init(GameConfig.width, GameConfig.height);
 		else Laya.init(GameConfig.width, GameConfig.height, Laya["WebGL"]);
-		Laya["Physics"] && Laya["Physics"].enable();
+		// Laya["Physics"] && Laya["Physics"].enable();
+		Laya.Physics.PIXEL_RATIO = 64;
 		const debugPanel = (Laya as any)["DebugPanel"];
 		debugPanel && debugPanel.enable();
 		Laya.stage.scaleMode = GameConfig.scaleMode;

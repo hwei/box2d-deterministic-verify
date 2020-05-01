@@ -39,7 +39,7 @@ import Scene=Laya.Scene;]]>   </codeImportsTS>
    <picType>0   </picType>
    <atlasType>1   </atlasType>
    <atlasScale/>
-   <debugMode>true   </debugMode>
+   <debugMode>false   </debugMode>
    <copyRes>true   </copyRes>
    <dataCompact>true   </dataCompact>
    <isRemoteProject>false   </isRemoteProject>
