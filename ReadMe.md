@@ -24,5 +24,4 @@ Extra
 
 I've even made Box2D rollbackable!
 
-[![Rollbackable Box2D](https://j.gifs.com/XLlmkv.gif)](https://youtu.be/jcrxOlkZZtM)
-
+[![Rollbackable Box2D](screenshot.gif)](https://youtu.be/jcrxOlkZZtM)
